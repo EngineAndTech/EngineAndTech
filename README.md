@@ -11,25 +11,16 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-gomes-23b9a3170/">
     <img width="60px" src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" alt="linkedin" style="vertical-align:top;">
   </a>
- <a href="https://www.hackerrank.com/jgsnto_sd">
-    <img width="60px" src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hacker Hank" style="vertical-align:top;">
+ <a href="instagram.com/engineandtech/">
+    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="Instagram" style="vertical-align:top;">
   </a>
- <a href="https://leetcode.com/JGSNTO/">
-    <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" style="vertical-align:top;">
-  </a>
- <a href="https://www.codewars.com/users/JGSNETO">
-    <img width="60px" src="https://user-images.githubusercontent.com/95002393/193584904-f0673311-a2bd-4e4c-9236-5ac43c395a64.png" alt="Code Wars" style="vertical-align:top;">
-  </a>
-  
 </div>
 </br>
 </br>
 
 ## Hello, all!!
 
-I am an admirer of technology and innovation applied in the automotive industry.
-I have 23 years old and current located in Gothenburg/Sweden.
-This repository will be used to share the repositories used in my educational project.
+I am an automotive engineer admirer of technology and innovation applied for the automotive indrustry. This repository will be used to share my learning project. Here i will create repositories where you will be able to learn stacks related with the automotive indurstry and be able to start or level up your carrer. 
 
 <p align="center">
 <a href="https://github.com/JGSNETO">
