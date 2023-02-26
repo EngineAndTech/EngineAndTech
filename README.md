@@ -23,7 +23,7 @@
 I am an automotive engineer admirer of technology and innovation applied for the automotive indrustry. This repository will be used to share my learning project. Here i will create repositories where you will be able to learn stacks related with the automotive indurstry and be able to start or level up your carrer. 
 
 <p align="center">
-<a href="https://github.com/JGSNETO">
+<a href="https://github.com/EngineAndTech">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JGSNETO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JGSNETO&layout=compact&langs_count=8&theme=algolia"/>
 </a>
